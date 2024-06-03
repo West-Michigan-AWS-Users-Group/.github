@@ -5,7 +5,7 @@ We are an AWS user group dedicated to sharing knowledge, networking, and learnin
 Join us for our regular meetups to discuss the latest in cloud computing, share best practices, and collaborate on projects.
 
 
-![Trent](trent-head.png) ![Justin](justin-head.png)
+![Trent](profile/trent-head.png) ![Justin](profile/justin-head.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/trent-n-7951332a2/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px;"/>
