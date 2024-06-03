@@ -16,7 +16,7 @@ Join us for our regular meetups to discuss the latest in cloud computing, share 
 
 
 
-### Connect with us!
+### Collaborate with us on Discord
 [![Discord Logo](profile/discord.png)](https://discord.gg/pWCgySrJ7A)
 
 ### Events
