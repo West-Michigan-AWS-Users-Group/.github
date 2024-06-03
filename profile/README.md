@@ -15,5 +15,5 @@ Join us for our regular meetups to discuss the latest in cloud computing, share 
 </a>
 
 
-[Link to meeting minutes](https://example.com/meeting-minutes)
+[Link to meeting minutes](https://github.com/West-Michigan-AWS-Users-Group/WMAUG-Meetings)
 
