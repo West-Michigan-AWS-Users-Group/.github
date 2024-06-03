@@ -16,7 +16,7 @@ Join us for our regular meetups to discuss the latest in cloud computing, share 
 
 
 ## Discord
-[![QR Code](profile/discord.jpg)](https://discord.gg/pWCgySrJ7A)
+[![Discord Logo](profile/discord.png)](https://discord.gg/pWCgySrJ7A)
 
 
 [Link to meeting minutes](https://github.com/West-Michigan-AWS-Users-Group/WMAUG-Meetings)
